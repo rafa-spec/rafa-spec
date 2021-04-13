@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **rafaelsoares1984/rafaelsoares1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +19,7 @@ Fala pessoinhas, mais um geek e gasmer na área.
 Eu sou a Rafael, tenho 36 anos e moro em São Paulo, Brasil. Apaixonado por tecnologia, desenvolviemtnto, inovação e possibilidades.
 
 🏢 Trabalhando como Desenvolvedor Full Stack | Java  
-💻 Aprendendo e me aprofundando em Angular, JS, TS e CSS
-💁 Interessada em ajudar jovens a ingressarem na área de tecnologia e desenvolvimento
-💬 Pode me chamar para conversar sobre tecnologia, desenvolvimento front-end, começo de carreira, desenhos, animes, mangas, e melhores séries para fazer maratona
+💻 Aprendendo e me aprofundando em Angular, JS, TS e CSS  
+💁 Interessada em ajudar jovens a ingressarem na área de tecnologia e desenvolvimento  
+💬 Pode me chamar para conversar sobre tecnologia, desenvolvimento front-end, começo de carreira, desenhos, animes, mangas, e melhores séries para fazer maratona  
 📫 Me acompanhe nas redes sociais

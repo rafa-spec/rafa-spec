@@ -1,3 +1,5 @@
+![Alt Text](https://media.giphy.com/media/OMK7LRBedcnhm/giphy.gif)
+
 <!--
 **rafaelsoares1984/rafaelsoares1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

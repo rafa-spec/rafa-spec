@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 Fala pessoinhas, mais um geek e gamer na área.
-Eu sou a Rafael, tenho 36 anos e moro em São Paulo, Brasil. Apaixonado por tecnologia, desenvolviemtnto, inovação e possibilidades.
+Eu sou a Rafael, tenho 37 anos e moro em São Paulo, Brasil. Apaixonado por tecnologia, desenvolviemtnto, inovação e possibilidades.
 
 🏢 Trabalhando como Desenvolvedor Full Stack | Java  
 💻 Aprendendo e me aprofundando em Angular, JS, TS e CSS  
